@@ -7,6 +7,14 @@ This is a thoughtfully designed desk organiser with a charging station for your 
 # Why I made this?
 I made this because small desks quickly fills up and becomes a mess with all your stuffs randomly spread around. I wanted an organiser that keeps my earpods, keys, cards, coins, and other small stuffs together in one place without occupying much space.
 
+## BOM 
+
+| Material | Quantity | Product | Price |
+|---|---:|---|---|
+| esun PLA+ Filament | 1 | https://robocraze.com/products/esun-pla-3d-printing-filament-1-75mm-black-color | $13.94 |
+
+
+
 # Printed Model
 <img width="4080" height="3072" alt="WhatsApp Image 2026-10-07 at 14 49 07 (3)" src="https://github.com/user-attachments/assets/a227bfcf-e7ad-408b-8c18-5b92832aa13b" />
 <img width="4080" height="3072" alt="WhatsApp Image 2026-10-07 at 14 49 07 (2)" src="https://github.com/user-attachments/assets/796e8c26-9156-471b-ab22-6dc78293e3af" />
